@@ -1,0 +1,11 @@
+# Dossier contenant les images
+animals/
+data/train.zip
+data/temp/
+
+# Modèle entraîné
+dog_cat_model.pkl
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
